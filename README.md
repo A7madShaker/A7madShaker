@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**A7madShaker/A7madShaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=200&fontAlignY=40"/>
+</div>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=09FF8E&center=true&vCenter=true&random=false&width=500&lines=Hi%2C+I'm+Ahmed+%F0%9F%98%89;Free+Palestine+%F0%9F%94%BB" alt="Typing SVG" /></a></p>
+<div>
+  <h1 align="center">💻 About me</h1>
+  <div align="center">
+    <h3>•  Technology Enthusiast </h3>
+    <h3>•  I'm a Computer Science student in Modern Academy Maadi</h3>
+    <h3>•  ✉For Contact</h3>
+    <h4>•  kholaefshaker@gmail.com</h4>
+  </div>
+</div>
+<div align="center">
+  <h1 align="center">📜 Skills & Tools</h1>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,bash,latex,regex,cpp"/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=tailwind,react,linux,git,github,obsidian,discord,vscode,powershell"/>
+  </a>
+</div>
+<div align="center">
+  <h1 align="center">🐍 Contributions</h1>
+  <img src="https://raw.githubusercontent.com/A7madShaker/A7madShaker/output/github-contribution-grid-snake-dark.svg"/>
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <h1 align="center">📊 Statistics</h1>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jazzmedo&include_all_commits=true&theme=tokyonight_duo&show_icons=true&count_private=true&hide_border=true&mode=weekly">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Jazzmedo&theme=tokyonight_duo&hide_border=true&mode=weekly">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer"/>
+</div>
