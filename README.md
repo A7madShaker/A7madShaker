@@ -15,9 +15,9 @@
 <div align="center">
   <h1 align="center">📜 Skills & Tools</h1>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,bash,latex,regex,cpp"/>
+    <img src="https://skillicons.dev/icons?i=py,anaconda,cpp,flutter,dart"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=tailwind,react,linux,git,github,obsidian,discord,vscode,powershell"/>
+    <img src="https://skillicons.dev/icons?i=git,github,discord,vscode"/>
   </a>
 </div>
 <div align="center">
@@ -27,8 +27,8 @@
 
 <div align="center">
   <h1 align="center">📊 Statistics</h1>
-  <img src="https://github-readme-stats.vercel.app/api?username=Jazzmedo&include_all_commits=true&theme=tokyonight_duo&show_icons=true&count_private=true&hide_border=true&mode=weekly">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Jazzmedo&theme=tokyonight_duo&hide_border=true&mode=weekly">
+  <img src="https://github-readme-stats.vercel.app/api?username=A7madShaker&include_all_commits=true&theme=tokyonight_duo&show_icons=true&count_private=true&hide_border=true&mode=weekly">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=A7madShaker&theme=tokyonight_duo&hide_border=true&mode=weekly">
 </div>
 
 
